@@ -338,6 +338,10 @@ CLI 参数解析
 - 想把大模型接入安全测试，但不想直接喂整站 JS 的人
 
 ---
+如果对你有帮助的话，就关注我的公众号吧
+
+<img width="430" height="430" alt="2af29784e597e0181c725997e6a9d3ee" src="https://github.com/user-attachments/assets/aec13022-b3af-46fb-b86c-3721278d7c13" />
+
 
 ## License
 
