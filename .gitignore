@@ -1,0 +1,56 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual envs
+.venv/
+venv/
+env/
+ENV/
+
+# Build / package
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Local outputs / scan artifacts
+out/
+outputs/
+artifacts/
+reports/
+*.har
+*.trace.zip
+storage_state*.json
+runtime_hook_events*.json
+network_capture*.json
+
+# Secrets / local config
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.json
+config.local.json
+
+# Node / browser tooling
+node_modules/
+playwright-report/
+test-results/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
